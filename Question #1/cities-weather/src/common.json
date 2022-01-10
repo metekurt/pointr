@@ -1,0 +1,18 @@
+{
+  "cityNames": [
+    "London",
+    "Paris",
+    "Tokyo",
+    "New York",
+    "Istanbul",
+    "Berlin",
+    "Rome",
+    "Amsterdam",
+    "Dublin",
+    "Madrid",
+    "Dubai",
+    "Kopenhag"
+  ],
+
+  "clickMessage": "Click for details"
+}

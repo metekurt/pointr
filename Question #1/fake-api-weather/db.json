@@ -1,0 +1,16 @@
+{
+  "cities": [
+    { "id": "London", "temp": "21°", "status": "Sunny", "humidity": "49%" },
+    { "id": "Paris", "temp": "21°", "status": "Rainy", "humidity": "39%" },
+    { "id": "Tokyo", "temp": "31°", "status": "Windy", "humidity": "79%" },
+    { "id": "New York", "temp": "31°", "status": "Rainy", "humidity": "29%" },
+    { "id": "Istanbul", "temp": "21°", "status": "Cloudy", "humidity": "53%" },
+    { "id": "Berlin", "temp": "31°", "status": "Stormy", "humidity": "69%" },
+    { "id": "Rome", "temp": "21°", "status": "Cloudy", "humidity": "26%" },
+    { "id": "Amsterdam", "temp": "31°", "status": "Snowy", "humidity": "89%" },
+    { "id": "Dublin", "temp": "21°", "status": "Cloudy", "humidity": "53%" },
+    { "id": "Madrid", "temp": "31°", "status": "Stormy", "humidity": "69%" },
+    { "id": "Dubai", "temp": "21°", "status": "Cloudy", "humidity": "26%" },
+    { "id": "Kopenhag", "temp": "31°", "status": "Snowy", "humidity": "89%" }
+  ]
+}
